@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update inference.cpp (bug) (#7279)
