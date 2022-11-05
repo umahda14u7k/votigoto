@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+fix yolo classify model loading error (#9196)
