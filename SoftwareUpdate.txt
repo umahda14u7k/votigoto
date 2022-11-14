@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
