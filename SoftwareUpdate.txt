@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Allow Annotator PIL.Image inputs (#8397)
