@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+New HUB Cloud Training docs page (#8174)
