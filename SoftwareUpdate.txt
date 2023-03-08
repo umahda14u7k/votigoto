@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix test_mlflow_keep_run_active() (#8868)
