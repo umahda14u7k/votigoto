@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Add HUB-SDK Docs reference section (#7781)
