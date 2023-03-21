@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
