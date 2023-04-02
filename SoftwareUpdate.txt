@@ -1,1 +1,1 @@
-fix print val map
+Pass callbacks to validator (#7320)
