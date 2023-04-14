@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix docs H1 tags (#7182)
