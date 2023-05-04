@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
