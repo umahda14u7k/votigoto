@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add new YOLOv8 OBB model metrics (#7379)
