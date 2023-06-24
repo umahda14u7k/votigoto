@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
