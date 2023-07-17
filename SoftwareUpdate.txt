@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
