@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
