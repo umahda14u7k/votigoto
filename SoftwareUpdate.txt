@@ -1,1 +1,1 @@
-fix predict with class filter
+New HUB Cloud Training docs page (#8174)
