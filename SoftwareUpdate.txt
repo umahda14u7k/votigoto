@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
