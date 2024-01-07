@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update Docs Home and Neural Magic pages (#7243)
