@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Update the heatmap module code + docs (#7045)
