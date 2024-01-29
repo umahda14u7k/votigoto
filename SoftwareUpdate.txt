@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update Docs Home and Neural Magic pages (#7243)
