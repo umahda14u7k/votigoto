@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+fix yolo classify model loading error (#9196)
