@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
