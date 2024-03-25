@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
