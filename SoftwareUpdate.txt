@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update CI.md with CI links (#8786)
