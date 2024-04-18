@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
