@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
