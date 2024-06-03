@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
